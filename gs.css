@@ -1,0 +1,77 @@
+.speech
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    font-size: 15px;
+}
+.direction
+{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+    font-size: 12px;
+    background-color: aqua;
+}
+.direction:hover {
+    background-color: rgb(94, 153, 153);
+    color: grey;
+  }
+.MRS.BAUER
+{   
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blueviolet;
+}
+.LANE
+{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: palevioletred;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+.MRS.BAUER:hover {
+background-color: rgb(212, 0, 255);
+color: rgb(255, 0, 0);
+border-style: double;
+border-left: 10px solid rgb(110, 40, 36);
+}
+.LANE:hover {
+background-color: rgb(98, 255, 0);
+color: rgb(0, 148, 239);
+border-style: double;
+border-left: 10px solid rgb(0, 225, 255);
+}
+ul.navbar-horizontal 
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+ul.navbar-horizontal li 
+{
+    float:left; 
+    color:#000;
+    background-color: #00ccff
+}
+ul.navbar-horizontal a 
+{
+    display:block;
+    padding:8px
+}
+ul.navbar-horizontal a:hover 
+{  
+    background-color: #3b7381;
+    color:white;
+}
+    
