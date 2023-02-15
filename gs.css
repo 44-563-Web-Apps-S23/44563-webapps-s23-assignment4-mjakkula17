@@ -32,16 +32,19 @@ table {
     padding: 10px;
     font-family: arial, sans-serif;
     border-collapse: collapse;
+    margin: 100px 13em 15pt 10%;
+    
   }
   
   td, th {
     border: 3px solid #302f2f;
     text-align: left;
     padding: 8px;
+    color: rgb(210, 40, 46);
   }
   
   tr:nth-child(even) {
-    background-color: #ffffff;
+    background-color: #c1c1c1;
   }
 .mrsbauer:hover {
 background-color: rgb(212, 0, 255);
