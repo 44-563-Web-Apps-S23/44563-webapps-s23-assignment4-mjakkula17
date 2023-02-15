@@ -28,16 +28,14 @@
 table {
     height: 100%;
     width: 50px;
-    color:aqua;
     border: solid;
-    border-style: double;
     padding: 10px;
     font-family: arial, sans-serif;
     border-collapse: collapse;
   }
   
   td, th {
-    border: 1px solid #dddddd;
+    border: 3px solid #302f2f;
     text-align: left;
     padding: 8px;
   }
