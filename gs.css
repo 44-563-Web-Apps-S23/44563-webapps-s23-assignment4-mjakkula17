@@ -1,6 +1,6 @@
 .speech
 {
-    font-family: 'Times New Roman', Times, serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: black;
     font-size: 15px;
 }
@@ -25,10 +25,6 @@
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: rgb(212, 38, 38);
 }
-
-
-
-
 table {
     font-family: arial, sans-serif;
     border-collapse: collapse;
@@ -44,7 +40,7 @@ table {
   tr:nth-child(even) {
     background-color: #dddddd;
   }
-.MRS.BAUER:hover {
+.mrsbauer:hover {
 background-color: rgb(212, 0, 255);
 color: rgb(255, 0, 0);
 border-style: double;
