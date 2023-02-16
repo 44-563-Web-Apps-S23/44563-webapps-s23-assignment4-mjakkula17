@@ -48,13 +48,13 @@ table {
   }
 .mrsbauer:hover {
 background-color: rgb(212, 0, 255);
-color: rgb(255, 0, 0);
+text-shadow: 2px 2px 5px #302f2f;
 border-style: double;
 border-left: 10px solid rgb(110, 40, 36);
 }
 .LANE:hover {
 background-color: rgb(98, 255, 0);
-color: rgb(0, 148, 239);
+text-shadow: 2px 2px 5px #362ad6;
 border-style: double;
 border-left: 10px solid rgb(0, 225, 255);
 }
